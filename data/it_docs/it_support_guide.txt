@@ -1,0 +1,49 @@
+IT SUPPORT GUIDE
+
+GETTING STARTED WITH COMPANY TECHNOLOGY
+When you join EduTech Academy, IT will provision your equipment within 24 hours. You will receive a laptop (Mac or Windows), a monitor, keyboard, mouse, and company phone. All devices are pre-configured with required software.
+
+HARDWARE SPECIFICATIONS
+Standard laptops include: Intel i7 processor, 16GB RAM, 512GB SSD. Apple MacBooks have similar specs. Monitors are 27-inch 4K. Older equipment can be refreshed by submitting a request to IT.
+
+SOFTWARE PROVISIONING
+All employees receive Microsoft Office, Slack, Zoom, VPN client, and security software. Additional software needs should be requested through the IT portal. Software licenses are managed centrally.
+
+PASSWORD POLICY
+Passwords must be at least 12 characters, include uppercase, lowercase, numbers, and special characters. Passwords must be changed every 90 days. Do not write passwords down or share them with anyone.
+
+MULTI-FACTOR AUTHENTICATION (MFA)
+All company accounts require MFA. You can use an authenticator app (Google Authenticator, Microsoft Authenticator) or SMS-based authentication. MFA is mandatory for security.
+
+VPN ACCESS
+Remote workers must use the company VPN when accessing company resources. VPN credentials are same as your company login. VPN is mandatory for accessing internal applications from outside the office.
+
+DATA BACKUP AND RECOVERY
+All company data should be stored in OneDrive or SharePoint. These services automatically backup your files. Local-only files may be lost if your laptop fails. Do not rely on local storage.
+
+LAPTOP SECURITY
+Always lock your laptop when stepping away (Windows+L). Enable disk encryption on all devices. Antivirus software must be active at all times. Do not disable security features.
+
+EXTERNAL STORAGE DEVICES
+USB drives and external hard drives require encryption and IT approval. Personal storage devices should not be used for company data. All sensitive data transfers must go through secure channels.
+
+VIDEO CONFERENCING
+Zoom is the official video conferencing tool. Always mute your microphone when not speaking. Close other applications to improve video quality. Record meetings only with participant permission.
+
+SLACK COMMUNICATION
+Slack is the primary communication platform. Use appropriate channels for discussions. Do not share passwords or sensitive information via Slack. Slack messages are monitored and archived.
+
+PRINTING POLICY
+Printers are connected to the network and available in each office. Use your employee ID badge to authenticate at printers. Unnecessary printing is discouraged to reduce waste.
+
+FILE SHARING AND COLLABORATION
+Use SharePoint for team documents and OneDrive for personal files. Documents should have clear access permissions. Do not share files via personal email accounts.
+
+INCIDENT REPORTING
+If you experience a security incident, data breach, or suspicious activity, report it to IT immediately. Do not investigate on your own. IT will assess the situation and take appropriate action.
+
+HELPDESK SUPPORT
+For IT issues, submit tickets through the IT portal or call extension 5000. Response time is 4 hours for critical issues, 24 hours for routine issues. For after-hours emergencies, use the emergency helpdesk number.
+
+BRING YOUR OWN DEVICE (BYOD)
+Personal devices can be used for work only with IT approval. Personal devices must have antivirus, firewall, and encryption enabled. Company data should not be stored on personal devices.

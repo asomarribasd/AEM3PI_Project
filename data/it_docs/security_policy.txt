@@ -1,0 +1,49 @@
+INFORMATION SECURITY POLICY
+
+ACCEPTABLE USE POLICY
+Company equipment and resources are for business purposes. Minimal personal use is permitted. Accessing or distributing inappropriate content is prohibited. Violations can result in disciplinary action.
+
+DATA CLASSIFICATION
+Public Data: Can be shared freely. Internal Data: Restricted to employees. Confidential: Highly restricted, access on need-to-know basis. Restricted: Only authorized personnel. Always verify data classification.
+
+INFORMATION SECURITY STANDARDS
+All employees must complete annual security training. Security assessments are conducted quarterly. Security incidents must be reported within 24 hours. Non-compliance may result in account suspension.
+
+EMAIL SECURITY
+Do not open attachments from unknown senders. Suspicious emails should be reported to IT using the "Report Phishing" button. Email is monitored for security threats. Do not forward sensitive information externally.
+
+PHISHING AND SOCIAL ENGINEERING
+Phishing emails attempt to trick you into revealing sensitive information. Never click links from unknown senders. Verify sender identity by contacting them directly. When in doubt, ask IT.
+
+MALWARE PROTECTION
+Keep antivirus and anti-malware software updated. Do not download files from untrusted sources. Do not disable security features. Report suspicious files to IT immediately.
+
+INCIDENT RESPONSE
+Security incidents include data breaches, unauthorized access, or malware detection. Report incidents immediately to IT. Cooperate fully with IT's investigation. Lessons learned are shared company-wide.
+
+PRIVACY AND DATA PROTECTION
+Protect employee and customer personal data. Follow GDPR and CCPA compliance requirements. Do not collect more data than necessary. Ensure proper data disposal when no longer needed.
+
+COMPLIANCE REQUIREMENTS
+The company complies with SOC 2, ISO 27001, and industry-specific regulations. Compliance audits are conducted annually. Employees must cooperate with audit processes. Non-compliance can result in fines.
+
+PHYSICAL SECURITY
+Badges provide access to the office. Do not share badges or access credentials. Report lost badges immediately. Keep sensitive documents secured. Clean desk policy requires securing all documents at day's end.
+
+FACILITY ACCESS
+Access to sensitive areas requires specific authorization. Server rooms are restricted to IT staff only. Visitor access is logged and supervised. Unauthorized access is grounds for termination.
+
+VENDOR AND THIRD-PARTY ACCESS
+Third-party vendors may access company systems under strict controls. All vendor access is logged and monitored. Contracts include security requirements and audit rights. Unauthorized vendor access is a serious violation.
+
+REMOTE WORK SECURITY
+Maintain physical security of your workspace. Do not work in public areas with sensitive data visible. Use a privacy screen to prevent shoulder surfing. Public WiFi should not be used for company work.
+
+ENCRYPTION REQUIREMENTS
+All laptops must have full disk encryption enabled. Portable storage devices must be encrypted. Sensitive emails should be encrypted. Ask IT if you have questions about encryption.
+
+SECURE DELETION
+When disposing of files, use secure deletion tools (not just delete). Physical storage must be destroyed or wiped. Request IT for assistance with secure disposal. Never throw away devices with data.
+
+SECURITY AWARENESS
+Stay informed about security trends and best practices. Participate in security training. Challenge suspicious behavior. Report security concerns to IT, not just to your manager.

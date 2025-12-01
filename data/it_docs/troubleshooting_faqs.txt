@@ -1,0 +1,61 @@
+COMMON IT TROUBLESHOOTING AND FAQS
+
+LAPTOP WON'T START
+If your laptop won't start, try holding the power button for 10 seconds, then wait 30 seconds before powering on again. If it still won't start, contact IT helpdesk. Do not force restart multiple times as it can cause data loss.
+
+WIFI CONNECTION ISSUES
+Make sure your WiFi is enabled (Fn+F2 on most laptops). Forget the network and reconnect. Restart your router (power cycle 30 seconds). If problem persists, run the WiFi troubleshooter or call IT.
+
+PRINTER NOT WORKING
+Check if the printer is turned on and connected to the network. Restart the printer. Clear the print queue on your computer. Update or reinstall printer drivers. If still not working, submit IT ticket.
+
+MOUSE OR KEYBOARD NOT RESPONDING
+Check if the device is turned on and has batteries. For wireless devices, check connection. Restart your computer. Try a different USB port. Contact IT if issue persists.
+
+SLACK NOT LOADING
+Check your internet connection. Clear your browser cache and cookies. Log out and log back in. Try a different browser. If problem continues, contact IT support.
+
+ZOOM AUDIO PROBLEMS
+Test your microphone and speaker in Zoom settings before joining. Check if microphone is muted in Zoom or Windows settings. Restart Zoom. Update Zoom to latest version. Restart your computer if still not working.
+
+UNABLE TO CONNECT TO VPN
+Check your internet connection is stable. Verify your VPN credentials are correct. Restart your VPN client. Restart your computer. Contact IT if you need password reset or have persistent issues.
+
+FILE SYNCING ISSUES
+Check if OneDrive or SharePoint is running properly. Restart the sync client. Check available storage space. Sign out and sign back in. If files are not syncing, don't work offline to avoid conflicts.
+
+SLOW COMPUTER PERFORMANCE
+Close unnecessary applications. Restart your computer. Check available disk space (aim for >20% free). Update Windows/macOS and installed software. Scan for malware. Contact IT if performance doesn't improve.
+
+SOFTWARE CRASHES FREQUENTLY
+Update the software to the latest version. Restart your computer. Reinstall the software. Check for conflicting software. Contact IT for technical support if crashes continue.
+
+ACCIDENTAL FILE DELETION
+If you deleted a file, check the Recycle Bin (Windows) or Trash (Mac). Restore from there if available. For OneDrive files, check version history. Contact IT if file is permanently deleted and recovery needed.
+
+PERMISSIONS ERRORS
+You may not have permission to access certain files or folders. Contact your manager to request access. IT will set permissions in Active Directory. Processing may take 24 hours. Do not attempt workarounds.
+
+SCREEN RESOLUTION ISSUES
+Right-click on desktop and select Display Settings. Adjust resolution to recommended setting. For multiple monitors, drag to arrange. Update graphics drivers. Contact IT if issue continues.
+
+BATTERY NOT CHARGING
+Check if charging cable is properly connected. Try a different power outlet. Restart your laptop. Replace the charging cable if damaged. Contact IT if battery won't charge after these steps.
+
+BLUE SCREEN OF DEATH (BSOD)
+Note the error code. Restart your computer. If BSOD occurs again, contact IT immediately with the error code. Do not attempt repairs yourself as it may cause data loss.
+
+FORGOT COMPANY PASSWORD
+Use the "Forgot Password?" link on the login screen to reset. You'll receive an email with reset instructions. The link expires after 1 hour. If you can't access email, call IT helpdesk for manual password reset.
+
+HOW TO REQUEST NEW SOFTWARE
+Submit a request through the IT portal with justification. Include the software name and version. Manager approval may be required. IT will assess licensing and security. You'll be notified when software is installed.
+
+HARDWARE UPGRADE REQUEST
+Submit a hardware request through the IT portal with justification. Explain your current equipment limitations. Manager approval is required. Hardware refresh cycle is annually in Q1.
+
+MOVING OFFICES OR LOCATIONS
+Notify IT 2 weeks in advance of your move. Schedule IT to disconnect and reconnect equipment. Ensure all data is backed up before the move. IT will assist with phone and internet setup at new location.
+
+EXTERNAL MONITOR CONNECTION
+Connect monitor to laptop via HDMI, DisplayPort, or USB-C (depending on laptop). Power on the monitor. Your laptop should detect it automatically. Adjust display settings for primary or extended display mode.

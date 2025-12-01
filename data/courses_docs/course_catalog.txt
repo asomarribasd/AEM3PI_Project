@@ -1,0 +1,106 @@
+COURSE CATALOG AND COURSE DESCRIPTIONS
+
+PYTHON FUNDAMENTALS COURSE
+Course Code: PY101
+Duration: 8 weeks, 24 hours
+Level: Beginner
+Prerequisites: None
+Description: Learn Python programming from scratch. Covers variables, data types, control flow, functions, and modules. No prior programming experience required. Includes hands-on coding exercises and projects. Certificate awarded upon completion.
+
+WEB DEVELOPMENT WITH HTML, CSS, AND JAVASCRIPT
+Course Code: WEB201
+Duration: 10 weeks, 30 hours
+Level: Beginner to Intermediate
+Prerequisites: Computer basics
+Description: Create modern, responsive websites. Learn HTML5 for structure, CSS3 for styling, and JavaScript for interactivity. Build real projects including a portfolio website. Includes career guidance for web developers.
+
+DATA SCIENCE FUNDAMENTALS
+Course Code: DS301
+Duration: 12 weeks, 36 hours
+Level: Intermediate
+Prerequisites: Python Fundamentals
+Description: Master data analysis using Python, pandas, and matplotlib. Learn statistical concepts and data visualization. Real-world datasets used in projects. Career path guidance for data scientists included.
+
+MACHINE LEARNING ESSENTIALS
+Course Code: ML401
+Duration: 14 weeks, 42 hours
+Level: Intermediate to Advanced
+Prerequisites: Python Fundamentals, Data Science Fundamentals
+Description: Introduction to machine learning algorithms including supervised and unsupervised learning. Hands-on projects using scikit-learn and TensorFlow. Build predictive models. Industry-ready skills taught.
+
+ADVANCED PYTHON FOR DATA ENGINEERING
+Course Code: PY402
+Duration: 10 weeks, 30 hours
+Level: Advanced
+Prerequisites: Python Fundamentals
+Description: Learn software engineering best practices in Python. Includes design patterns, testing, debugging, and performance optimization. Real-world data engineering problems solved. Expert-level guidance.
+
+CLOUD COMPUTING FUNDAMENTALS
+Course Code: CLOUD201
+Duration: 8 weeks, 24 hours
+Level: Intermediate
+Prerequisites: Linux basics recommended
+Description: Introduction to AWS, Azure, and Google Cloud. Learn cloud infrastructure, storage, and computing. Hands-on labs in each platform. Cloud certification prep included.
+
+MOBILE APP DEVELOPMENT WITH REACT NATIVE
+Course Code: MOBILE301
+Duration: 12 weeks, 36 hours
+Level: Intermediate
+Prerequisites: JavaScript fundamentals
+Description: Build native mobile apps for iOS and Android using React Native. Learn state management, navigation, and APIs. Deploy apps to app stores. Real app development skills.
+
+DATABASE DESIGN AND SQL MASTERY
+Course Code: DB301
+Duration: 10 weeks, 30 hours
+Level: Intermediate
+Prerequisites: Basic programming knowledge
+Description: Master database design principles and SQL. Learn normalization, indexing, and optimization. Complex queries and stored procedures. Database administration basics included.
+
+CYBERSECURITY FUNDAMENTALS
+Course Code: SEC201
+Duration: 10 weeks, 30 hours
+Level: Intermediate
+Prerequisites: Networking basics recommended
+Description: Essential cybersecurity concepts including encryption, authentication, and vulnerability assessment. Hands-on labs in penetration testing. Compliance frameworks covered.
+
+DEVOPS PRACTICES AND TOOLS
+Course Code: DEVOPS301
+Duration: 12 weeks, 36 hours
+Level: Intermediate to Advanced
+Prerequisites: Linux and programming knowledge
+Description: Learn Docker, Kubernetes, and CI/CD pipelines. Infrastructure as Code principles. Automated testing and deployment. Production deployment skills.
+
+ARTIFICIAL INTELLIGENCE AND DEEP LEARNING
+Course Code: AI401
+Duration: 14 weeks, 42 hours
+Level: Advanced
+Prerequisites: Machine Learning Essentials
+Description: Advanced AI concepts including neural networks and deep learning. Computer vision and natural language processing projects. Transfer learning techniques. Research-level content.
+
+BUSINESS ANALYTICS AND TABLEAU
+Course Code: BA201
+Duration: 8 weeks, 24 hours
+Level: Beginner to Intermediate
+Prerequisites: Basic statistics recommended
+Description: Data visualization using Tableau. Business metrics and KPIs. Interactive dashboards. Career opportunities in business intelligence.
+
+MICROSERVICES ARCHITECTURE
+Course Code: ARCH401
+Duration: 12 weeks, 36 hours
+Level: Advanced
+Prerequisites: Java or Python, cloud basics
+Description: Design and build scalable microservices. Service discovery and load balancing. Event-driven architecture. Production-level system design.
+
+API DESIGN AND DEVELOPMENT
+Course Code: API301
+Duration: 10 weeks, 30 hours
+Level: Intermediate
+Prerequisites: Backend programming knowledge
+Description: RESTful and GraphQL API design. Authentication and authorization. API testing and documentation. Industry best practices for API development.
+
+INTRODUCTION TO LINUX
+Course Code: LINUX101
+Duration: 6 weeks, 18 hours
+Level: Beginner
+Prerequisites: None
+Description: Linux fundamentals for beginners. Command line, file systems, and user management. System administration basics. Career paths in Linux administration.

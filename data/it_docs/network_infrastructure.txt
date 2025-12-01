@@ -1,0 +1,49 @@
+NETWORK AND INFRASTRUCTURE
+
+NETWORK ARCHITECTURE
+The company uses a hybrid cloud architecture with on-premises servers and cloud services. All network traffic is monitored for security threats. The network operates on a zero-trust security model where all users and devices must authenticate.
+
+NETWORK CONNECTIVITY
+High-speed fiber internet provides connectivity to our data centers. Redundant internet connections ensure uptime. WiFi 6 is available throughout the office. Network performance is monitored 24/7 to detect and resolve issues.
+
+NETWORK SPEED AND BANDWIDTH
+Expected speeds are 100+ Mbps download and 50+ Mbps upload. For video conferencing, minimum 2.5 Mbps is required. For large file transfers, use Aspera for faster speeds. Contact IT if experiencing slower speeds.
+
+EMAIL SYSTEM
+Microsoft Exchange is the company email service. Email is hosted in the cloud with 100GB storage per user. Archive folders are available for old emails. Email retention policy: delete after 7 years unless archived.
+
+ACTIVE DIRECTORY AND USER ACCOUNTS
+Active Directory manages company user accounts and permissions. Your username is firstname.lastname format. Account creation takes 24 hours. Account deletion follows offboarding procedures. Password resets through the portal.
+
+CLOUD SERVICES USED
+The company uses Microsoft 365, Google Workspace, AWS, and Salesforce. Access is controlled through single sign-on (SSO). Two-factor authentication is required for cloud services. Unauthorized cloud service use is prohibited.
+
+DISASTER RECOVERY PLAN
+The company maintains daily backups of critical systems. Recovery time objective (RTO) is 1 hour for critical services. Recovery point objective (RPO) is 24 hours. Disaster recovery drills are conducted quarterly.
+
+BUSINESS CONTINUITY
+In case of major outages, critical services are recovered from backup data centers. Employees will be notified of any significant service disruptions. Business continuity status is posted on the IT status page.
+
+DATABASE MANAGEMENT
+Company databases are managed and monitored by IT. Direct database access requires special permission. Database queries should go through official data request process. Development databases are separate from production.
+
+SERVER MAINTENANCE
+Scheduled maintenance occurs on Sundays 2-4 AM. Emergency maintenance may occur during business hours if critical issues arise. Maintenance notifications are sent 48 hours in advance. Plan accordingly for dependent services.
+
+SYSTEM MONITORING
+Automated monitoring tools track system health 24/7. Alerts are configured for critical thresholds. Performance dashboards are available to authorized users. Incidents are triaged based on impact and severity.
+
+CAPACITY PLANNING
+IT conducts quarterly capacity reviews to plan for growth. Storage, compute, and network capacity are monitored. Upgrades are planned in advance to prevent disruptions. Requests for new services are evaluated for capacity impact.
+
+DISASTER RECOVERY TESTING
+Quarterly disaster recovery drills test recovery procedures. All critical systems are tested for recovery. Results are reviewed and procedures are updated. Employees may be asked to participate in testing.
+
+CHANGE MANAGEMENT
+All infrastructure changes follow change management procedures. Changes are tested in staging before production. Change windows are scheduled during low-activity periods. Rollback procedures are planned for all changes.
+
+VENDOR AND SERVICE PROVIDERS
+External vendors provide cloud services, internet connectivity, and security services. All vendors are audited annually. Service level agreements (SLAs) are in place with all vendors. Vendor performance is monitored continuously.
+
+IT ASSET MANAGEMENT
+All company IT equipment is tracked in the asset management system. Assets include laptops, monitors, phones, printers, and servers. Asset tags are used for tracking. Equipment is audited annually.
