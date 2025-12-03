@@ -32,6 +32,11 @@ AEM3PI_Project/
 
 1. **Clone the repository**
 
+# Create virtual environment
+
+python -m venv venv
+.\venv\Scripts\Activate.ps1  # Windows PowerShell
+
 2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
