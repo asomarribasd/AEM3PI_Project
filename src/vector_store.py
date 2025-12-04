@@ -2,8 +2,8 @@
 Vector store and document loader setup for HR, Courses, and IT domains using LangChain and Chroma.
 """
 from langchain_community.document_loaders import TextLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.vectorstores import Chroma
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
 import os
 
