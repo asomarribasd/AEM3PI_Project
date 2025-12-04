@@ -43,8 +43,7 @@ def build_vector_store(domain: str, persist: bool = True):
         embedding=embeddings,
         persist_directory=persist_dir
     )
-    if persist:
-        vectordb.persist()
+    # Note: Chroma auto-persists when persist_directory is set
     return vectordb
 
 
