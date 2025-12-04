@@ -18,7 +18,19 @@ def route_query(question: str) -> dict:
     elif category == "IT":
         result = answer_it_query(question)
     else:
-        result = {"result": "Sorry, I could not classify your question into HR, Courses, or IT."}
+        result = {"result": "Sorry, I could not classify your question into HR, Courses, or IT.", "source_documents": []}
+    
+    # Serialize source documents for JSON output
+    if "source_documents" in result:
+        result["sources"] = [
+            {
+                "content": doc.page_content[:200] + "..." if len(doc.page_content) > 200 else doc.page_content,
+                "metadata": doc.metadata
+            }
+            for doc in result["source_documents"]
+        ]
+        del result["source_documents"]  # Remove non-serializable objects
+    
     trace["result"] = result
     return trace
 
