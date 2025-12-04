@@ -62,15 +62,16 @@ class TestOrchestrator:
     @patch('src.agents.orchestrator.classifier_chain')
     def test_classify_with_mock(self, mock_chain):
         """Test classification with mocked LLM"""
-        mock_chain.return_value = {"category": "HR"}
+        # Mock the invoke method which is used in LCEL chains
+        mock_chain.invoke.return_value = "HR"
         result = classify_query("test question")
         assert result == "HR"
-        mock_chain.assert_called_once()
+        mock_chain.invoke.assert_called_once()
     
     @patch('src.agents.orchestrator.classifier_chain')
     def test_classify_invalid_category_returns_other(self, mock_chain):
         """Test that invalid categories default to 'Other'"""
-        mock_chain.return_value = {"category": "InvalidCategory"}
+        mock_chain.invoke.return_value = "InvalidCategory"
         result = classify_query("test question")
         assert result == "Other", "Invalid categories should default to 'Other'"
 

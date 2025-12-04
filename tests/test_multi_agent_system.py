@@ -66,11 +66,12 @@ class TestMultiAgentSystem:
         question = "What is the attendance policy?"
         result = route_query(question)
         
-        # For non-Other categories, result should have source_documents
+        # For non-Other categories, result should have sources
         if result["category"] != "Other":
             assert "result" in result["result"], "Should have nested result structure"
-            if "source_documents" in result["result"]:
-                assert len(result["result"]["source_documents"]) > 0
+            # Updated to check for 'sources' instead of 'source_documents'
+            if "sources" in result["result"]:
+                assert len(result["result"]["sources"]) > 0
     
     @pytest.mark.skipif(not os.getenv("OPENAI_API_KEY"), reason="Requires OpenAI API key")
     def test_multiple_queries_sequence(self):
