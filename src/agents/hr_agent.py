@@ -7,9 +7,13 @@ from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
+from langfuse.langchain import CallbackHandler
 from src.vector_store import get_vector_store
 
 load_dotenv()
+
+# Initialize Langfuse callback handler (uses LANGFUSE_* env vars)
+langfuse_handler = CallbackHandler()
 
 llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 retriever = get_vector_store("hr").as_retriever()
@@ -33,7 +37,10 @@ hr_qa_chain = (
 
 def answer_hr_query(question: str) -> dict:
     """Answer an HR question with sources."""
-    answer = hr_qa_chain.invoke(question)
+    answer = hr_qa_chain.invoke(
+        question,
+        config={"callbacks": [langfuse_handler]}
+    )
     source_docs = retriever.invoke(question)
     return {
         "result": answer,

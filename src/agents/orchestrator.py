@@ -6,9 +6,13 @@ from dotenv import load_dotenv
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
+from langfuse.langchain import CallbackHandler
 
 # Load environment variables
 load_dotenv()
+
+# Initialize Langfuse callback handler (uses LANGFUSE_* env vars)
+langfuse_handler = CallbackHandler()
 
 CATEGORIES = ["HR", "Courses", "IT", "Other"]
 
@@ -24,7 +28,10 @@ classifier_chain = CLASSIFY_PROMPT | llm | output_parser
 
 def classify_query(question: str) -> str:
     """Classify a user query and return the category."""
-    category = classifier_chain.invoke({"question": question}).strip()
+    category = classifier_chain.invoke(
+        {"question": question},
+        config={"callbacks": [langfuse_handler]}
+    ).strip()
     if category not in CATEGORIES:
         return "Other"
     return category
