@@ -46,11 +46,9 @@ pip install -r requirements.txt
 - Copy `.env.example` to `.env` and fill in your OpenAI and Langfuse keys.
 
 4. **Build vector stores**
-Run this in a Python shell or script:
-```python
-from src.vector_store import build_vector_store
-for domain in ["hr", "courses", "it"]:
-    build_vector_store(domain)
+Run the build script to initialize vector stores for all domains:
+```bash
+python build_vector_store.py
 ```
 
 5. **Run the system**
